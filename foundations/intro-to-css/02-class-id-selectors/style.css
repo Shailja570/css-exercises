@@ -1,0 +1,15 @@
+.odd{
+  background-color: #ff000080;
+  color: black;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#hellyeah{
+    font-size: 36px;
+    color: blue; 
+}
+#pooja{
+    background-color: #00ff0080;
+     font-size: 24px;
+     font-weight: bold;
+}
